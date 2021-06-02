@@ -170,10 +170,10 @@
                 }
             ],
             "BOMitem": {
-                "BOMitemName": "name",
+                "BOMitemName": "M8 Shoulder Bolt",
                 "numberNeeded": 1,
-                "costUSD": 0,
-                "source": "www.example.com",
+                "costUSD": 1.74,
+                "source": "https://www.mcmaster.com/92981A204/",
                 "totalNeeded": 1,
                 "radius": 0.015384615384615385
             }
